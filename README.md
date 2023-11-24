@@ -1,0 +1,2 @@
+# Digital-Signal-Processing-Model-Development-for-Pre-Recorded-Voice-Commands-for-Automated-Home-
+Given 11 different types of voice commands, recorded in various folders in SharePoint locations, build an audio recognition system using analytic modeling techniques. This means that you should come up with an equation for your model that should be written using the z-domain syntax. The output is one of the 11 classes that your model detects.
